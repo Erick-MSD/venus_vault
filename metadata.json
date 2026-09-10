@@ -1,0 +1,6 @@
+{
+  "name": "Venus Vault",
+  "description": "Plataforma y tienda TCG en México especializada en Pokémon, One Piece y coleccionismo: cotizaciones de mercado en USD y MXN, gestión ágil de portafolio y tienda oficial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
